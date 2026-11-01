@@ -161,6 +161,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) to suggest a repository or correction.
 
 | Repository | Description | License |
 | --- | --- | --- |
+| [makeplane/plane](https://github.com/makeplane/plane) | Project management platform for tasks, sprints, and documents. | [AGPL-3.0](https://github.com/makeplane/plane) |
 | [portainer/portainer](https://github.com/portainer/portainer) | Web interface for managing Docker and Kubernetes environments. | [Zlib](https://github.com/portainer/portainer) |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | Self-hosted uptime monitoring and alerts. | [MIT](https://github.com/louislam/uptime-kuma) |
 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | Continuous file synchronization between devices. | [MPL-2.0](https://github.com/syncthing/syncthing) |
