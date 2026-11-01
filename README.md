@@ -17,6 +17,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) to suggest a repository or correction.
 
 | Repository | Description | License |
 | --- | --- | --- |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Software reverse engineering framework for analyzing compiled programs. | [Apache-2.0](https://github.com/NationalSecurityAgency/ghidra) |
 | [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) | Enrollment repository for Anthropic’s opt-in vulnerability scanning service for open-source projects; the scanner runs as a hosted service. | [Apache-2.0](https://github.com/anthropics/oss-scanner) |
 | [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) | Security skills and a customizable autonomous scanning reference harness. | [Not identified](https://github.com/anthropics/defending-code-reference-harness) |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | Coding-agent skill for multi-phase security audits and verified findings. | [MIT](https://github.com/cloudflare/security-audit-skill) |
@@ -31,6 +32,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) to suggest a repository or correction.
 
 | Repository | Description | License |
 | --- | --- | --- |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Design guidance and commands for coding agents building user interfaces. | [Apache-2.0](https://github.com/pbakaus/impeccable) |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Coding-agent guidance for simpler, less over-engineered implementations. | [MIT](https://github.com/DietrichGebert/ponytail/blob/HEAD/LICENSE) |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Captures and compresses agent session context for use in later sessions. | [Apache-2.0](https://github.com/thedotmack/claude-mem/blob/HEAD/LICENSE) |
 | [openai/codex](https://github.com/openai/codex) | Terminal coding agent for working with repositories. | [Apache-2.0](https://github.com/openai/codex) |
@@ -90,6 +92,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) to suggest a repository or correction.
 
 | Repository | Description | License |
 | --- | --- | --- |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Local voice creation, transcription, dubbing, and audiobook tools. | [AGPL-3.0](https://github.com/debpalash/VoiceStudio) |
+| [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | Cross-platform voice dictation with local and cloud transcription models. | [MIT](https://github.com/OpenWhispr/openwhispr) |
 | [blender/blender](https://github.com/blender/blender) | Official GitHub mirror of the Blender 3D creation suite. | [Not identified](https://github.com/blender/blender) |
 | [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) | Pixel-art and animated sprite editor. | [GPL-2.0](https://github.com/LibreSprite/LibreSprite) |
 | [piskelapp/piskel](https://github.com/piskelapp/piskel) | Web-based pixel-art and sprite editor. | [Apache-2.0](https://github.com/piskelapp/piskel) |
