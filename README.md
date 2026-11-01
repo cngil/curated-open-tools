@@ -13,10 +13,28 @@ Reviewed: **2026-11-01**. Stars, activity, and licensing can change. License lab
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) to suggest a repository or correction.
 
+## Security and Vulnerability Scanning
+
+| Repository | Description | License |
+| --- | --- | --- |
+| [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) | Enrollment repository for Anthropic’s opt-in vulnerability scanning service for open-source projects; the scanner runs as a hosted service. | [Apache-2.0](https://github.com/anthropics/oss-scanner) |
+| [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) | Security skills and a customizable autonomous scanning reference harness. | [Not identified](https://github.com/anthropics/defending-code-reference-harness) |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | Coding-agent skill for multi-phase security audits and verified findings. | [MIT](https://github.com/cloudflare/security-audit-skill) |
+| [openai/codex-security](https://github.com/openai/codex-security) | CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. | [Apache-2.0](https://github.com/openai/codex-security) |
+| [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) | Agent-powered security harness for identifying vulnerabilities in codebases. | [Apache-2.0](https://github.com/vercel-labs/deepsec) |
+| [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | Template-based scanner for vulnerabilities and misconfigurations across services. | [MIT](https://github.com/projectdiscovery/nuclei) |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Scans containers, repositories, and infrastructure for vulnerabilities, secrets, and misconfigurations. | [Apache-2.0](https://github.com/aquasecurity/trivy) |
+| [semgrep/semgrep](https://github.com/semgrep/semgrep) | Static analysis engine for finding code patterns and security issues. | [LGPL-2.1](https://github.com/semgrep/semgrep) |
+| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | Detects secrets in source code and Git repositories. | [MIT](https://github.com/gitleaks/gitleaks) |
+
 ## AI Coding and Developer Tools
 
 | Repository | Description | License |
 | --- | --- | --- |
+| [openai/codex](https://github.com/openai/codex) | Terminal coding agent for working with repositories. | [Apache-2.0](https://github.com/openai/codex) |
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | Gemini-powered coding agent for the terminal. | [Apache-2.0](https://github.com/google-gemini/gemini-cli) |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | Agent toolkit with a coding CLI, TUI, and LLM API. | [MIT](https://github.com/earendil-works/pi) |
+| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Ghostty-based macOS terminal for organizing coding-agent sessions. | [Not identified](https://github.com/manaflow-ai/cmux) |
 | [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | [MIT](https://github.com/morluto/rea/blob/HEAD/LICENSE) |
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | Project documentation and source code. | [MIT](https://github.com/pingdotgg/t3code/blob/HEAD/LICENSE) |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. | [Apache-2.0](https://github.com/JuliusBrussee/caveman/blob/HEAD/LICENSE) |
@@ -46,6 +64,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) to suggest a repository or correction.
 
 | Repository | Description | License |
 | --- | --- | --- |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | Local large language model inference in C and C++. | [MIT](https://github.com/ggml-org/llama.cpp) |
+| [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) | C and C++ implementation of Whisper speech recognition. | [MIT](https://github.com/ggml-org/whisper.cpp) |
+| [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) | Self-hosted template for running local AI workflows. | [Apache-2.0](https://github.com/n8n-io/self-hosted-ai-starter-kit) |
 | [pola-rs/polars](https://github.com/pola-rs/polars) | Extremely fast Query Engine for DataFrames, written in Rust | [MIT](https://github.com/pola-rs/polars/blob/HEAD/LICENSE) |
 | [huggingface/datasets](https://github.com/huggingface/datasets) | 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools | [Apache-2.0](https://github.com/huggingface/datasets/blob/HEAD/LICENSE) |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.  | [Apache-2.0](https://github.com/huggingface/transformers/blob/HEAD/LICENSE) |
@@ -67,6 +88,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) to suggest a repository or correction.
 
 | Repository | Description | License |
 | --- | --- | --- |
+| [blender/blender](https://github.com/blender/blender) | Official GitHub mirror of the Blender 3D creation suite. | [Not identified](https://github.com/blender/blender) |
+| [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) | Pixel-art and animated sprite editor. | [GPL-2.0](https://github.com/LibreSprite/LibreSprite) |
+| [piskelapp/piskel](https://github.com/piskelapp/piskel) | Web-based pixel-art and sprite editor. | [Apache-2.0](https://github.com/piskelapp/piskel) |
 | [storytold/figcraft](https://github.com/storytold/figcraft) | FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust | [Apache-2.0](https://github.com/storytold/figcraft) |
 | [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | The Craft App Launcher | [Apache-2.0](https://github.com/storytold/craft-launcher) |
 | [storytold/gridcraft](https://github.com/storytold/gridcraft) | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft. | [Apache-2.0](https://github.com/storytold/gridcraft) |
@@ -106,6 +130,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) to suggest a repository or correction.
 
 | Repository | Description | License |
 | --- | --- | --- |
+| [nektos/act](https://github.com/nektos/act) | Run GitHub Actions workflows locally. | [MIT](https://github.com/nektos/act) |
+| [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | Displays system information in the terminal. | [MIT](https://github.com/fastfetch-cli/fastfetch) |
+| [eza-community/eza](https://github.com/eza-community/eza) | Modern command-line file listing tool. | [EUPL-1.2](https://github.com/eza-community/eza) |
+| [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | Fast recursive text search that respects ignore files. | [Unlicense](https://github.com/BurntSushi/ripgrep) |
+| [sharkdp/fd](https://github.com/sharkdp/fd) | Fast and user-friendly command-line file finder. | [Apache-2.0](https://github.com/sharkdp/fd) |
+| [gogs/gogs](https://github.com/gogs/gogs) | Self-hosted Git service. | [MIT](https://github.com/gogs/gogs) |
+| [coollabsio/coolify](https://github.com/coollabsio/coolify) | Self-hosted platform for deploying applications and databases. | [Apache-2.0](https://github.com/coollabsio/coolify) |
+| [supabase/supabase](https://github.com/supabase/supabase) | Postgres-based development platform with APIs and supporting services. | [Apache-2.0](https://github.com/supabase/supabase) |
 | [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. | [MIT](https://github.com/ghostty-org/ghostty/blob/HEAD/LICENSE) |
 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! | [MIT](https://github.com/PowerShell/PowerShell) |
 | [git-for-windows/git](https://github.com/git-for-windows/git) | A fork of Git containing Windows-specific patches. | [Not identified](https://github.com/git-for-windows/git) |
@@ -123,6 +155,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) to suggest a repository or correction.
 
 | Repository | Description | License |
 | --- | --- | --- |
+| [portainer/portainer](https://github.com/portainer/portainer) | Web interface for managing Docker and Kubernetes environments. | [Zlib](https://github.com/portainer/portainer) |
+| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | Self-hosted uptime monitoring and alerts. | [MIT](https://github.com/louislam/uptime-kuma) |
+| [syncthing/syncthing](https://github.com/syncthing/syncthing) | Continuous file synchronization between devices. | [MPL-2.0](https://github.com/syncthing/syncthing) |
+| [netdata/netdata](https://github.com/netdata/netdata) | System and infrastructure monitoring and observability. | [GPL-3.0](https://github.com/netdata/netdata) |
 | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System - Server Backend & API | [GPL-2.0](https://github.com/jellyfin/jellyfin/blob/HEAD/LICENSE) |
 | [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) | GameStream client for PCs (Windows, Mac, Linux, and Steam Link) | [GPL-3.0](https://github.com/moonlight-stream/moonlight-qt/blob/HEAD/LICENSE) |
 | [gorhill/uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | [GPL-3.0](https://github.com/gorhill/uBlock) |
