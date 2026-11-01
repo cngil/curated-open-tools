@@ -31,6 +31,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) to suggest a repository or correction.
 
 | Repository | Description | License |
 | --- | --- | --- |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Coding-agent guidance for simpler, less over-engineered implementations. | [MIT](https://github.com/DietrichGebert/ponytail/blob/HEAD/LICENSE) |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Captures and compresses agent session context for use in later sessions. | [Apache-2.0](https://github.com/thedotmack/claude-mem/blob/HEAD/LICENSE) |
 | [openai/codex](https://github.com/openai/codex) | Terminal coding agent for working with repositories. | [Apache-2.0](https://github.com/openai/codex) |
 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | Gemini-powered coding agent for the terminal. | [Apache-2.0](https://github.com/google-gemini/gemini-cli) |
 | [earendil-works/pi](https://github.com/earendil-works/pi) | Agent toolkit with a coding CLI, TUI, and LLM API. | [MIT](https://github.com/earendil-works/pi) |
