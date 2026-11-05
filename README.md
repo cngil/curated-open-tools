@@ -173,6 +173,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) to suggest a repository or correction.
 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | [MIT](https://github.com/microsoft/PowerToys/blob/HEAD/LICENSE) |
 | [localsend/localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | [Apache-2.0](https://github.com/localsend/localsend/blob/HEAD/LICENSE) |
 | [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | [AGPL-3.0](https://github.com/immich-app/immich/blob/HEAD/LICENSE) |
+| [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | Local-first desktop workspace coordinating AI agents for research, writing, coding, and documents. | [MIT](https://github.com/Orkas-AI/Orkas/blob/main/LICENSE) |
 
 ## License
 
